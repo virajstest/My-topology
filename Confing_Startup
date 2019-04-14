@@ -2,5 +2,11 @@ Startup Config
 Default configuration
 adding interfaces 
 adding ip-addresses
+
 enabling the accesses 
 adding access lists
+
+adding QOS
+adding Routing Protocols
+adding the IPSLA
+
